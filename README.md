@@ -1,4 +1,5 @@
 Sales & Financial Dashboard (Tableau)
+
 🔹 Project Overview
 This project presents an interactive Tableau dashboard built on the sales_data_sample.xlsx dataset.
 The goal is to help business stakeholders quickly analyze sales, product performance, geography trends, and top customers to support data-driven decisions.
