@@ -63,7 +63,7 @@ PowerPoint Summary → Download PPT
 
 README (this file) for GitHub documentation
 
-📝 Conclusion & Next Steps
+📝 Conclusion 
 
 Key Insights: Sales growth trends, product line performance, top markets, and top customers.
 
